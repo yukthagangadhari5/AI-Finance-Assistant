@@ -1,0 +1,5 @@
+Invoice_ID,Customer,Amount,Status
+1,ABC Corp,5000,Paid
+2,XYZ Ltd,7000,Unpaid
+3,LMN Inc,3000,Paid
+4,DEF Ltd,9000,Unpaid
