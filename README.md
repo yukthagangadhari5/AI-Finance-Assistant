@@ -4,7 +4,7 @@ An intelligent multi-agent RAG system that answers financial questions
 using real RBI (Reserve Bank of India) annual reports.
 
 ## 🚀 Demo
-[Add screenshot here]
+![AI Finance Assistant Demo](screenshot.png)
 
 ## 🏗️ Architecture
 - **Multi-Agent System** (LangGraph): Router Agent → Research Agent
