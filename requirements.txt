@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langgraph
+faiss-cpu
+sentence-transformers
+huggingface-hub
+pypdf
+python-multipart
+psycopg2-binary
+sqlalchemy
+pydantic
+python-dotenv
+google-generativeai
+requests
